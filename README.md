@@ -1,4 +1,4 @@
-# **Título:** Registro, almacenamiento y alerta de variable de temperatura (Clean Architecture)
+# Registro, almacenamiento y alerta de variable de temperatura (Clean Architecture)
 )
 
 ---
