@@ -1,5 +1,5 @@
-# Historia de Usuario Mejorada  
-**Título:** Registro, almacenamiento y alerta de variable de temperatura (Clean Architecture)
+# **Título:** Registro, almacenamiento y alerta de variable de temperatura (Clean Architecture)
+)
 
 ---
 
